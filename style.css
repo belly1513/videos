@@ -2,7 +2,7 @@ body{
     background: blue;
     color:white;
     margin: 0px;
-     font-family: "Playfair Display", serif;
+    font-family: "Anton SC", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -12,5 +12,15 @@ body{
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
-    
+
 }
+header{
+    color:aqua;
+    font-size: 40px;
+    margin-bottom:3px;
+    padding: 20px;
+}
+.chamada-texto{
+    margin-right:5%;
+}
+
